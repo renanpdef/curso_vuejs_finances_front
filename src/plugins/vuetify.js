@@ -21,6 +21,7 @@ export default new Vuetify({
     info: colors.blue,
     error: colors.pink.darken2,
     success: colors.teal.lighten1,
-    warning: colors.purple.darken1
+    warning: colors.purple.darken1,
+    dark: true
   }
 })
